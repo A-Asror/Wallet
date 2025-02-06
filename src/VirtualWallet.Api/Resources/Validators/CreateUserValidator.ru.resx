@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata"> <!--Some other Code--> </xsd:schema>
+    <resheader name="resmimetype"> <!--Some other Code--></resheader>
+    <resheader name="version"> <!--Some other Code--></resheader>
+    <resheader name="reader"> <!--Some other Code--></resheader>
+    <resheader name="writer"> <!--Some other Code--></resheader>
+    <data name="ValidatorPinflLengthError" xml:space="preserve">
+        <value>Количество символов Pinfl должен быть ровно 14. </value>
+    </data>
+    <data name="ValidatorPinflAndTinErrorNotFound" xml:space="preserve">
+        <value>Поле Pinfl или Tin обязательно должен заполняться</value>
+    </data>
+    <data name="ValidatorPinflAndTinErrorFound" xml:space="preserve">
+        <value>Поле Pinfl и Tin не могут быть одновременно заполненными</value>
+    </data>
+    <data name="ValidatorUserTypeMustBeLegalEntity" xml:space="preserve">
+        <value>Для юр.лица надо заполнить поле Tin </value>
+    </data>
+    <data name="ValidatorUserTypeMustBeIndividual" xml:space="preserve">
+        <value>Для физ.лица надо заполнить поле Pinfl</value>
+    </data>
+    <data name="ValidationError" xml:space="preserve">
+        <value>Ошибка валидации</value>
+    </data>
+    <!--Our custom String-->
+</root>
